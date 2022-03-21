@@ -1,7 +1,7 @@
 123
-
+000
 456
 789.
 Add line
-
+050
 bleaha muha
